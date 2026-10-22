@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2276149_colleg_0.user" name="x_2276149_colleg_0.user">c848bd96478cd3103fefb71f316d4362</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-22 17:55:09</sys_created_on>
+        <sys_id>0848bd96478cd3103fefb71f316d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c848bd96478cd3103fefb71f316d4362</sys_name>
+        <sys_package display_value="College Grievance" source="x_2276149_colleg_0">27387d96478cd3103fefb71f316d432e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="College Grievance">27387d96478cd3103fefb71f316d432e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0848bd96478cd3103fefb71f316d4365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-22 17:55:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
