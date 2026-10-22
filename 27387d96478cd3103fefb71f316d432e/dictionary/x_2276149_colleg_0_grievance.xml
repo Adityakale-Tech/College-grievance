@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="757f711647ccd3103fefb71f316d435a" label="Grievance" max_length="40" name="x_2276149_colleg_0_grievance" type="collection">
+        <element choice="3" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3-Moderate" sequence="2" value="moderate"/>
+                <element inactive_on_update="false" label="1-Critical" sequence="0" value="critical"/>
+                <element inactive_on_update="false" label="4-Low" sequence="3" value="low"/>
+                <element inactive_on_update="false" label="2-High" sequence="1" value="high"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element choice="1" label="category" max_length="255" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="infrastructure" sequence="4" value="infrastructure"/>
+                <element inactive_on_update="false" label="library" sequence="2" value="library"/>
+                <element inactive_on_update="false" label="other" sequence="5" value="other"/>
+                <element inactive_on_update="false" label="hostel" sequence="1" value="hostel"/>
+                <element inactive_on_update="false" label="accounts &amp; fees" sequence="3" value="accounts_fees"/>
+                <element inactive_on_update="false" label="Academic" sequence="0" value="academic"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="student name" max_length="32" name="student_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="student_name"/>
+        </index>
+    </element>
+</database>
