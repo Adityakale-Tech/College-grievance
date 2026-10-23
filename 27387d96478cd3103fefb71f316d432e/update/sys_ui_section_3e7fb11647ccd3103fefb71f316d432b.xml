@@ -4,13 +4,83 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-10-22 18:26:46</sys_created_on>
-            <sys_id>f67fb11647ccd3103fefb71f316d4333</sys_id>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>19104ba647c097103fefb71f316d432b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-10-22 18:26:46</sys_updated_on>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>1d104ba647c097103fefb71f316d432c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>d5104ba647c097103fefb71f316d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>91104ba647c097103fefb71f316d432e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>5d104ba647c097103fefb71f316d432e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 17:47:29</sys_created_on>
+            <sys_id>19104ba647c097103fefb71f316d432f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2276149_colleg_0_grievance" sys_domain="global" view="Default view">3e7fb11647ccd3103fefb71f316d432b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 17:47:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
